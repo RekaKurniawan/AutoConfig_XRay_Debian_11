@@ -30,8 +30,8 @@ Support VPS IPv6 Only, tetapi !!! saat SETUP DOMAIN wajib pilih no.2 / pilih dom
 
 **Link Instalasi**
 ```
-bash -c "$(wget -qO- https://raw.githubusercontent.com/RekaKurniawan/AutoConfig_XRay_Debian_11/main/install.sh)"
+bash -c "$(wget -qO- https://raw.githubusercontent.com/RekaKurniawan/AutoConfig_XRay_Debian_11/master/install.sh)"
 ```
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/dugong-lewat/AutoConfig_XRay_Debian_11/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/dugong-lewat/AutoConfig_XRay_Debian_11/master/install.sh)"
 ```
